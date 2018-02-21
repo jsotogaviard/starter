@@ -1,4 +1,4 @@
-# Download this project
+#!/usr/bin/env bash
 # Check versions
 docker version
 docker-compose version
